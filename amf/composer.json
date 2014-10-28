@@ -1,0 +1,12 @@
+{
+    "name": "root/amf",
+    "description": "The AMF extension for Yii 2 framework",
+    "authors": [
+        {
+            "name": "Paweł Święcicki",
+            "email": "pawel.s@aol.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
